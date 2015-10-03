@@ -1,6 +1,6 @@
 {
   "name": "regex-dirname-posix",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Regular expression to capture a POSIX path dirname.",
   "author": {
     "name": "Athan Reines",
